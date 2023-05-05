@@ -1,0 +1,10 @@
+How do websites actually work?
+
+Websites consist of three deifferent file types. 
+
+HTML files - the main structure of a website
+CSS files - te "color" of the website; used for styling components
+JS files - gives the site functionality
+
+When you access a webite, your browser is asking the server for those three types of files. 
+What you see on the screen is what those files are delivering. 

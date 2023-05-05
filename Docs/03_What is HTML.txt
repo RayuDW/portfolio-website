@@ -1,0 +1,4 @@
+HTML stands for HyperText Markup Language.
+
+HTML is the main structure and content of a website. Therefore, you only need a HTML file to make a website work. 
+A website cannot work and/or render with only CSS and/or JS files. 

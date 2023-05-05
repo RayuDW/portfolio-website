@@ -1,0 +1,7 @@
+05_Difference between tags and elements
+
+
+<h1>This is some text</h1>
+
+<h1></h1> == tags
+The whole thing, including the tags and text == Element

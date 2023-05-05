@@ -1,0 +1,4 @@
+04_HTML HEadings Best practices
+
+- Only use one h1 as a maximum
+- Use continueous heading levels (h1 -> h2 -> h3 -> ...); don't skip a heading (so don't do h1 -> h3)

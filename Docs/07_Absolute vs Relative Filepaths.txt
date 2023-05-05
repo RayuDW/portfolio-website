@@ -1,0 +1,9 @@
+07_Absolute vs Relative Filepaths
+
+Absolute: C:\Project\images\image.jpg
+Relative: images\image.png
+		 
+		..\files\images\image.jpg <-- Up-a-level, then the image folder
+		 .\image.jpg 				<-- Stay in the current folder; then search for the file
+
+> Relative paths are usually used in web development
