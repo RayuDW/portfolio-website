@@ -1,0 +1,10 @@
+09_CSS Selectors
+
+There are many types of selectors in CSS
+
+- Element selector (p, h1, ...)
+- Class selector (.class-name)
+- ID selector (#main) => Difference to class selector: You may use an ID only once within a document
+- Attribute selector ( p[draggable] (alternativ: p[draggable="false")
+- Universal selector ( * {} => applies the styles to everything where the stylesheet is applied
+
