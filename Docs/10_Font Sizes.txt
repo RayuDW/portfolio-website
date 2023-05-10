@@ -1,0 +1,11 @@
+10_Font Sizes
+
+Font sizes in CSS can be set with four different units:
+- px (pixel, which equals 1/96th of an inch (or 0.26mm))
+- pt (point, which equals 1/72nd of an inch (or 0.35mm))
+- em (1em == 100% of the parent element)
+- rem (1rem == 100% of the root element; usually the <html> element)
+
+Imagine we have a <p> inside a <body> element. 
+Inside this <body> element, we set the font size to 20px. 
+The <p> element gets a font-size of 2em, and therefore 2x20px == 40px!
